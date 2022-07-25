@@ -20,6 +20,6 @@ VM builder can be executed from the desktop of Windows command line
 
 Before using this tool, it is recommended to become familiar with the options users choose when installing a VM, the below guide covers installing Ubuntu in Windows 10 and can be used a baseline for building your first VM Builder presets.txt options.
 
-[Learning to Use Virtual Machines] (https://github.com/alxdnvn/CareerAssignment/blob/main/Learning%20to%20Use%20Virtual%20Machines.pdf)
+[Learning to Use Virtual Machines](https://github.com/alxdnvn/CareerAssignment/blob/main/Learning%20to%20Use%20Virtual%20Machines.pdf)
 
 
