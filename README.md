@@ -4,10 +4,14 @@
 
 VM builder is a tool for easy packaging of virtual machines for multiple or repeatable installations.  It allows users to package their desired operating system .ISO and version of Oracle VirtualBox into a single folder, and define installation options for repeatable deployment in the presets.txt file.
 
-VM builder can be executed from the desktop of Windows command line
+## Installation
 
-
-## Description
+##### Place the following files into a single folder
+- VMB.exe
+- presets.txt
+- VirtualBox-X.X.XX-XXXXX-Win.exe
+- operatingsystem.iso
+- 
 
 
 ## Description
