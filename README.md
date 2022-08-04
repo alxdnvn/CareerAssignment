@@ -6,12 +6,13 @@ VM builder is a tool for easy packaging of virtual machines for multiple or repe
 
 ## Installation
 
-##### Place the following files into a single folder
+##### Requirements to package an install (place the following in a single folder)
 - VMB.exe
 - presets.txt
 - VirtualBox-X.X.XX-XXXXX-Win.exe
 - operatingsystem.iso
 
+##### Execution
 - Execute VMB.exe and select your Oracle VirtualBox installer and OS .ISO in the appropriate dropdowns.
 - Select "Install"
 
