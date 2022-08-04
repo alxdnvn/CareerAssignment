@@ -2,7 +2,7 @@
 
 ## Description
 
-VM builder is a tool for easy packaging of virtual machines for multiple or repeatable installations.  It allows users to package their desired operating system .ISO and version of Oracle VirtualBox into a single folder, and define installation options for repeatable deployment in the presets.txt file.
+VM builder (VMB) is a tool for packaging virtual machine installations into a single executable for multiple deployments.  VMB is targeted at students that want to be able to rapidly reinstall a VM, or create a second copy of an existing VM without variation between installs.  To prepare an installation for VMB conversion, users package their desired operating system .ISO and version of Oracle VirtualBox into a single folder, and define installation options for repeatable deployment in the presets.txt file.
 
 ## Installation
 
@@ -13,7 +13,7 @@ VM builder is a tool for easy packaging of virtual machines for multiple or repe
 - operatingsystem.iso
 
 ##### Execution
-- Execute VMB.exe and select your Oracle VirtualBox installer and OS .ISO in the appropriate dropdowns.
+- Run VMB.exe and select your Oracle VirtualBox installer and OS .ISO in the appropriate dropdowns.
 - Select "Install"
 
 
@@ -23,7 +23,7 @@ I recommend the following guide for beginners that want to help with VM Builder:
 
 [First Contributions](https://github.com/firstcontributions/first-contributions)
 
-## New to Virtual Machines?
+## New to Virtual Machines? (AKA I have no idea why this repo was recommended to me)
 
 Before using this tool, it is recommended to become familiar with the options users choose when installing a VM, the below guide covers installing Ubuntu in Windows 10 and can be used a baseline for building your first VM Builder presets.txt file.
 
